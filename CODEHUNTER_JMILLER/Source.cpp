@@ -13,7 +13,7 @@ int main()
 	string textToAnalyze; // stores user input
 	// int foo = 0;  never used
 	int vowels = 0; // stores number of vowels in user input
-	int consonants = 0; // stores number of consonants in user input
+	int consonants = 0; // stores number of consonants in user input 
 	int digits = 0; // stores number of digits in user input
 	int spaces = 0; // stores number of spaces in user input
 	int lengthOfStringSubmittedForAnalysis = 0; //stores the number of characters in user input
