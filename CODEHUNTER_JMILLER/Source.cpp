@@ -11,7 +11,7 @@ using namespace std; // removes need to type std:: so many times
 int main()
 {
 	string textToAnalyze; // stores user input
-	// int foo = 0;  never used
+	// int foo = 0;  never used // XTRA CRED
 	int vowels = 0; // stores number of vowels in user input
 	int consonants = 0; // stores number of consonants in user input 
 	int digits = 0; // stores number of digits in user input
@@ -19,7 +19,7 @@ int main()
 	int lengthOfStringSubmittedForAnalysis = 0; //stores the number of characters in user input
 	int unknownCharacters = 0; // stores number of unknown characters in user input(punctuation)
 	int checkSum = 0; // combined total of identified characters
-	//int bar = 0;  never used
+	//int bar = 0;  never used never used // XTRA CRED
 
 	cout << "Welcome to the CIA code Hunter Program!" << endl; //text to console
 	cout << "Please type in text to analyze: " << endl;//text to console
